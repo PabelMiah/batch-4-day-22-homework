@@ -1,0 +1,13 @@
+{
+  "name": "batch-4-day-22-homework/batch-4-day-22-homework",
+  "description": "A simple project",
+  "license": "",
+  "keywords": [],
+  "require": {},
+  "require-dev": {},
+  "autoload": {
+    "psr-4": {
+      "App\\": "app//"
+    }
+  }
+}
